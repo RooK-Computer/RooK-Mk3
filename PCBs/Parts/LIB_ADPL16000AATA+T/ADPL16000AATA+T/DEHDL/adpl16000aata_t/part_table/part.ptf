@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADPL16000AATA_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADPL16000AATA+T" (!) = "", "ADPL16000AATAT", "Other", "700-ADPL16000AATA+T", "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/ADPL16000AATA%2bT?qs=wT7LY0lnAe0OnT0M8eXHew%3D%3D", "", "", "60V, 400mA, Ultra-Small, Hi gh-Efficiency, Synchronous Step-Down DC-DC Converters", "https://www.analog.com/media/en/technical-documentation/data-sheets/adpl16000.pdf", "0.8 mm"
+END_PART
+
+END.

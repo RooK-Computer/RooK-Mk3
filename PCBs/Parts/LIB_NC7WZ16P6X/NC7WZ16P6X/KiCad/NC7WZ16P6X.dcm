@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NC7WZ16P6X
+D Matches Performance of LCX when Operated at 3.3V VCC ; Over-Voltage Tolerance Inputs Facilitate 5V to 3V Translation ; Ultra-High Speed: tPD 2.4ns (Typical) into 50pF at 5V VCC ; Power Down High-Impedance Inputs/Outputs ; Space-Saving SC70 Package; Broad VCC Operating Range: 1.65V to 5.5V ; High Output Drive: +/-24mA at 3V VCC ; Ultra-Small MicroPak Packages ; Proprietary Noise/EMI Reduction Circuitry
+K
+F https://www.onsemi.com/pub/Collateral/NC7WZ16-D.PDF
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=IRLZ34NSTRLPBF
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=3
+Version=2.3
+Released=2018-02-01 11:34:31
+Downloaded=2025-02-10 20:06:20
+3D=Y

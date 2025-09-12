@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "PJ114AHSMTTR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "PJ114AHSMTTR")
+        (spec "default")
+    )
+)

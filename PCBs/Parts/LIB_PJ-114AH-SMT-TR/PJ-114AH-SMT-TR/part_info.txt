@@ -1,0 +1,9 @@
+Manufacturer=Same Sky
+PartNumber=PJ-114AH-SMT-TR
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=2.6
+Released=2024-12-27 15:25:11
+Downloaded=2025-01-27 12:21:41
+3D=Y

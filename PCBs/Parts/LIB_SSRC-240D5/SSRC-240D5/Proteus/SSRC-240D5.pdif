@@ -1,0 +1,128 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SSRC-240D5"
+   (description "Body Features: Product Weight .4 OZ | Primary Product Color Black | Product Weight 11 G | Configuration Features: Output Switching Zero | Contact Features: Contact Arrangement 1 Form A (SPST-NO) | Switch Arrangement 1 Form A (SPST-NO) | Dimensions: Product Height 25.4 MM | Product Width 7.6 MM | Product Height 1 INCH | Product Length 43.1 MM | Product Length 1.7 INCH | Product Width .3 INCH | Electrical Characteristics: Input Voltage 3  15 VDC | Output Current Rating .06  5 ARMS | Output Current (Min)")
+   (family "RLY")
+   (package "SSRC240D5")
+   (attribute "Datasheet Link" "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=SSRC&DocType=Data%20Sheet&DocLang=English&PartCntxt=5-1393030-8&DocFormat=pdf")
+   (attribute "Geometry.Height" "25.4mm")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "SSRC-240D5")
+   (attribute "Mouser Part Number" "655-SSRC-240D5")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/SSRC-240D5?qs=g%252BEszo6zu8Nwuk3glla68Q%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "SSRC-240D5")
+    (pin "AC_LOAD_1" 1 PS)
+    (pin "AC_LOAD_2" 2 PS)
+    (pin "+DC_INPUT" 3 PS)
+    (pin "-DC_INPUT" 4 PS)
+   )
+  )
+  (symbol "SSRC-240D5"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1000 100) (pt 1000 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SSRC240D5"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -35.5 -2.5)
+      (pt 7.6 -2.5)
+      (pt 7.6 5.1)
+      (pt -35.5 5.1)
+      (pt -35.5 -2.5))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -35.5 -2.54)
+      (pt 7.6 -2.54)
+      (pt 7.6 5.08)
+      (pt -35.5 5.08)
+      (pt -35.5 -2.54))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -36.5 -3.54)
+      (pt 8.6 -3.54)
+      (pt 8.6 6.1)
+      (pt -36.5 6.1)
+      (pt -36.5 -3.54))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt 8.1 0)
+      (arc (pt 8.100 0.000) (pt 8.000 0.050) (pt 8.100 -0.050) (start 180.0) (sweep -.0))
+      (pt 8 0)
+      (arc (pt 8.000 0.000) (pt 8.000 0.050) (pt 8.100 -0.050) (start 180.0) (sweep 180.0))
+      (pt 8.1 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt -10.100 0.000) (padstack 0))
+   (leg 3 (pt -22.800 0.000) (padstack 0))
+   (leg 4 (pt -27.900 0.000) (padstack 0))
+   (padstack 0
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (round 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (round 1.800))
+   )
+   (padstack 1
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (square 1.800))
+    (pad (layer INNER) (round 1.800))
+    (pad (layer BCOP) (square 1.800))
+   )
+   (model "SSRC-240D5.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

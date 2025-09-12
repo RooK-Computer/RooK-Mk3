@@ -1,0 +1,18 @@
+.NC7WZ16P6X :1 ;Matches Performance of LCX when Operated at 3.3V VCC ; Over-Voltage Tolerance Inputs Facilitate 5V to 3V Translation ; Ultra-High Speed: tPD 2.4ns (Typical) into 50pF at 5V VCC ; Power Down High-Impedance Inputs/Outputs ; Space-Saving SC70 Package; Broad VCC Operating Range: 1.65V to 5.5V ; High Output Drive: +/-24mA at 3V VCC ; Ultra-Small MicroPak Packages ; Proprietary Noise/EMI Reduction Circuitry
+SOT65P210X110-6N
+*STM IC
+*NGS
+*PLB 1="A1" 2="GND" 3="A2" 4="Y2" 5="VCC" 6="Y1"
+*MXP 6
+*DFN NC7WZ16P6X
+~!Manufacturer_Name (onsemi)
+~!Manufacturer_Part_Number (NC7WZ16P6X)
+~!Mouser Part Number (512-NC7WZ16P6X)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/NC7WZ16P6X?qs=yRUxxYa83cgjitXtxHB4eA%3D%3D)
+~!Arrow Part Number (NC7WZ16P6X)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/nc7wz16p6x/on-semiconductor)
+~!Link Datasheet (https://www.onsemi.com/pub/Collateral/NC7WZ16-D.PDF)
+~!Height (1.1mm)
+~!3D_Model (NC7WZ16P6X)
+NC7WZ16P6X
+1.1!I 2.1!G 3.1!I 6.1!Y 5.1!P 4.1!Y 

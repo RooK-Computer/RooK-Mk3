@@ -1,0 +1,19 @@
+.1871058-1 :1 ;PCI EXPRESS CONN. EON TYPE, 36P, L=2.0
+"18710581"
+*STM J
+*NGS
+*PNM 1=A1 2=A2 3=A3 4=A4 5=A5 6=A6 7=A7 8=A8 9=A9 10=A10 11=A11 12=A12 13=A13 14=A14 15=A15 16=A16 17=A17 18=A18 19=B1 20=B2 21=B3 22=B4 23=B5 24=B6 25=B7 26=B8 27=B9 28=B10 29=B11 30=B12 31=B13 32=B14 33=B15 34=B16 35=B17 36=B18
+*PLB 1="A1" 2="A2" 3="A3" 4="A4" 5="A5" 6="A6" 7="A7" 8="A8" 9="A9" 10="A10" 11="A11" 12="A12" 13="A13" 14="A14" 15="A15" 16="A16" 17="A17" 18="A18" 19="B1" 20="B2" 21="B3" 22="B4" 23="B5" 24="B6" 25="B7" 26="B8" 27="B9" 28="B10" 29="B11" 30="B12" 31="B13" 32="B14" 33="B15" 34="B16" 35="B17" 36="B18"
+*MXP 38
+*DFN 1871058-1
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (1871058-1)
+~!Mouser Part Number (571-1871058-1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1871058-1?qs=%252BoxYCnKeKt%252BrW4wNNMzC1A%3D%3D)
+~!Arrow Part Number (1871058-1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/1871058-1/te-connectivity?region=nac)
+~!Link Datasheet (https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1871058%7FH%7Fpdf%7FEnglish%7FENG_CD_1871058_H_baseFilename.pdf%7F1871058-1)
+~!Height (11.25mm)
+~!3D_Model (1871058-1)
+"1871058-1"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 33.1!U 34.1!U 35.1!U 36.1!U 

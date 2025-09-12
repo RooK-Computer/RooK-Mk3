@@ -1,0 +1,18 @@
+.IRLZ34NSTRLPBF :1 ;MOSFET N-Channel HEXFET 55V 30A D2PAK Infineon IRLZ34NSTRLPBF N-channel MOSFET Transistor, 30 A, 55 V, 3+Tab-Pin D2PAK
+IRF2804STRLPBF
+*STM Q
+*NGS
+*PLB 1="G" 2="D" 3="S"
+*MXP 3
+*DFN IRLZ34NSTRLPBF
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (IRLZ34NSTRLPBF)
+~!Mouser Part Number (942-IRLZ34NSTRLPBF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/IRLZ34NSTRLPBF?qs=9%252BKlkBgLFf3%2F7oYCM5eA2g%3D%3D)
+~!Arrow Part Number (IRLZ34NSTRLPBF)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/irlz34nstrlpbf/infineon-technologies-ag?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.infineon.com/dgdl/irlz34nspbf.pdf?fileId=5546d462533600a40153567210152722)
+~!Height (4.83mm)
+~!3D_Model (IRLZ34NSTRLPBF)
+IRLZ34NSTRLPBF
+1.1!U 2.1!U 3.1!U 

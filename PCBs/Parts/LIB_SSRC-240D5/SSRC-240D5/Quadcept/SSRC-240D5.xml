@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/1883072/1571036/2.50/4/2/Relay or Contactor/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="c180_h120" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="47.244094488188">
+    <padshape layer="TOP" shape="round" width="70.866141732283" height="70.866141732283" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="78.740157480314" height="78.740157480314" />
+    <padshape layer="INNER" shape="round" width="70.866141732283" height="70.866141732283" />
+    <padshape layer="BOTTOM" shape="round" width="70.866141732283" height="70.866141732283" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="78.740157480314" height="78.740157480314" />
+  </padstyle>
+  <padstyle name="s180_h120" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="47.244094488188">
+    <padshape layer="TOP" shape="square" width="70.866141732283" height="70.866141732283" />
+    <padshape layer="TOP_SOLDER_MASK" shape="square" width="78.740157480314" height="78.740157480314" />
+    <padshape layer="INNER" shape="square" width="70.866141732283" height="70.866141732283" />
+    <padshape layer="BOTTOM" shape="square" width="70.866141732283" height="70.866141732283" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="square" width="78.740157480314" height="78.740157480314" />
+  </padstyle>
+  <footprint name="SSRC240D5" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="s180_h120" originx="0" originy="0" rotation="90" />
+    <pcbpin number="2" name="2" style="c180_h120" originx="-397.63779527559" originy="0" rotation="90" />
+    <pcbpin number="3" name="3" style="c180_h120" originx="-897.63779527558" originy="0" rotation="90" />
+    <pcbpin number="4" name="4" style="c180_h120" originx="-1098.4251968504" originy="0" rotation="90" />
+    <line layer="TOP_ASSEMBLY" originx="-1397.6377952756" originy="-98.425196850392" endx="299.21259842519" endy="-98.425196850392" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="299.21259842519" originy="-98.425196850392" endx="299.21259842519" endy="200.7874015748" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="299.21259842519" originy="200.7874015748" endx="-1397.6377952756" endy="200.7874015748" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-1397.6377952756" originy="200.7874015748" endx="-1397.6377952756" endy="-98.425196850392" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-1397.6377952756" originy="-99.999999999999" endx="299.21259842519" endy="-99.999999999999" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="299.21259842519" originy="-99.999999999999" endx="299.21259842519" endy="200" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="299.21259842519" originy="200" endx="-1397.6377952756" endy="200" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-1397.6377952756" originy="200" endx="-1397.6377952756" endy="-99.999999999999" width="7.8740157480314" />
+    <line layer="TOP_PLACE_BOUND" originx="-1437.0078740157" originy="-139.37007874016" endx="338.58267716535" endy="-139.37007874016" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="338.58267716535" originy="-139.37007874016" endx="338.58267716535" endy="240.15748031496" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="338.58267716535" originy="240.15748031496" endx="-1437.0078740157" endy="240.15748031496" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-1437.0078740157" originy="240.15748031496" endx="-1437.0078740157" endy="-139.37007874016" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="318.89763779527" originy="0" endx="318.89763779527" endy="0" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="312.99212598425" originy="0" startangle="-.0" sweepangle="180.0" radius="-1.9685039370079" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="314.96062992126" originy="0" endx="314.96062992126" endy="0" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="312.99212598425" originy="0" startangle="180.0" sweepangle="180.0" radius="-1.9685039370079" width="3.9370078740157" />
+  </footprint>
+  <symbol name="SSRC-240D5" originx="0" originy="0">
+    <line originx="200" originy="100" endx="1000" endy="100" width="0" />
+    <line originx="1000" originy="-400" endx="1000" endy="100" width="0" />
+    <line originx="1000" originy="-400" endx="200" endy="-400" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-400" width="0" />
+    <sympin number="1" originx="200" originy="-300" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-300" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="AC_LOAD_1" />
+      <text name="pindes" originx="140" originy="-280" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="200" originy="-200" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="AC_LOAD_2" />
+      <text name="pindes" originx="140" originy="-180" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="+DC_INPUT" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="3" />
+    </sympin>
+    <sympin number="4" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="-DC_INPUT" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="4" />
+    </sympin>
+  </symbol>
+  <component name="SSRC-240D5" designatorprefix="K" height="999.99999999999" footprint="SSRC240D5">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="AC_LOAD_1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="AC_LOAD_2" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="+DC_INPUT" />
+    <comppin designator="4" sympin="4" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="-DC_INPUT" />
+    <attached_symbol gate="1" name="SSRC-240D5" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <pinmap designator="3" footprintpin="3" />
+    <pinmap designator="4" footprintpin="4" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=SSRC&amp;DocType=Data Sheet&amp;DocLang=English&amp;PartCntxt=5-1393030-8&amp;DocFormat=pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Body Features: Product Weight .4 OZ | Primary Product Color Black | Product Weight 11 G | Configuration Features: Output Switching Zero | Contact Features: Contact Arrangement 1 Form A (SPST-NO) | Switch Arrangement 1 Form A (SPST-NO) | Dimensions: Product Height 25.4 MM | Product Width 7.6 MM | Product Height 1 INCH | Product Length 43.1 MM | Product Length 1.7 INCH | Product Width .3 INCH | Electrical Characteristics: Input Voltage 3  15 VDC | Output Current Rating .06  5 ARMS | Output Current (Min)" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="TE Connectivity" />
+    <text name="Manufacturer_Part_Number" originx="1050" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="SSRC-240D5" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="655-SSRC-240D5" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/TE-Connectivity/SSRC-240D5?qs=g%252BEszo6zu8Nwuk3glla68Q%3D%3D" />
+    <text name="Arrow Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+    <text name="Arrow Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+  </component>
+</quadcept_library>

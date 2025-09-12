@@ -1,0 +1,9 @@
+Manufacturer=Same Sky
+PartNumber=SJ3-35083B-TR
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=2.4
+Released=2024-09-17 08:41:13
+Downloaded=2025-01-27 16:08:28
+3D=Y

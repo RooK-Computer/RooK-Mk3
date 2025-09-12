@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SSRC-240D5
+#/1883072/1571036/2.50/4/2/Relay or Contactor
+DEF SSRC-240D5 K 0 30 Y Y 1 F N
+F0 "K" 1050 300 50 H V L CNN
+F1 "SSRC-240D5" 1050 200 50 H V L CNN
+F2 "SSRC240D5" 1050 100 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=SSRC&DocType=Data%20Sheet&DocLang=English&PartCntxt=5-1393030-8&DocFormat=pdf" 1050 0 50 H I L CNN
+F4 "Body Features: Product Weight .4 OZ | Primary Product Color Black | Product Weight 11 G | Configuration Features: Output Switching Zero | Contact Features: Contact Arrangement 1 Form A (SPST-NO) | Switch Arrangement 1 Form A (SPST-NO) | Dimensions: Product Height 25.4 MM | Product Width 7.6 MM | Product Height 1 INCH | Product Length 43.1 MM | Product Length 1.7 INCH | Product Width .3 INCH | Electrical Characteristics: Input Voltage 3  15 VDC | Output Current Rating .06  5 ARMS | Output Current (Min)" 1050 -100 50 H I L CNN "Description"
+F5 "25.4" 1050 -200 50 H I L CNN "Height"
+F6 "TE Connectivity" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SSRC-240D5" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "655-SSRC-240D5" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/SSRC-240D5?qs=g%252BEszo6zu8Nwuk3glla68Q%3D%3D" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1050 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1050 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X AC_LOAD_1 1 0 -300 200 R 50 50 0 0 P
+X AC_LOAD_2 2 0 -200 200 R 50 50 0 0 P
+X +DC_INPUT 3 0 -100 200 R 50 50 0 0 P
+X -DC_INPUT 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1000 100 1000 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/20163712/1571036/2.50/4/2/Connector/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="s200" surface="True" plated="False" isvia="False" nopaste="False" nomask="True" complex="False" holesize="0">
+    <padshape layer="TOP" shape="square" width="78.740157480314" height="78.740157480314" />
+    <padshape layer="TOP_SOLDER_MASK" shape="square" width="86.614173228345" height="86.614173228345" />
+    <padshape layer="TOP_SOLDER_PASTE" shape="square" width="78.740157480314" height="78.740157480314" />
+  </padstyle>
+  <padstyle name="c80_h160" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="62.992125984251">
+    <padshape layer="TOP" shape="round" width="31.496062992126" height="31.496062992126" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="39.370078740157" height="39.370078740157" />
+    <padshape layer="INNER" shape="round" width="31.496062992126" height="31.496062992126" />
+    <padshape layer="BOTTOM" shape="round" width="31.496062992126" height="31.496062992126" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="39.370078740157" height="39.370078740157" />
+  </padstyle>
+  <padstyle name="c90_h180" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="70.866141732283">
+    <padshape layer="TOP" shape="round" width="35.433070866141" height="35.433070866141" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="43.307086614173" height="43.307086614173" />
+    <padshape layer="INNER" shape="round" width="35.433070866141" height="35.433070866141" />
+    <padshape layer="BOTTOM" shape="round" width="35.433070866141" height="35.433070866141" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="43.307086614173" height="43.307086614173" />
+  </padstyle>
+  <footprint name="PJ114AHSMTTR" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="2" style="s200" originx="-92.519685039369" originy="-216.53543307086" rotation="90" />
+    <pcbpin number="2" name="3" style="s200" originx="151.5748031496" originy="-216.53543307086" rotation="90" />
+    <pcbpin number="3" name="5" style="c80_h160" originx="-92.519685039369" originy="0" rotation="90" />
+    <pcbpin number="4" name="6" style="c90_h180" originx="84.645669291338" originy="0" rotation="90" />
+    <pcbpin number="5" name="A1" style="s200" originx="-92.519685039369" originy="216.53543307086" rotation="90" />
+    <pcbpin number="6" name="B1" style="s200" originx="151.5748031496" originy="216.53543307086" rotation="90" />
+    <line layer="TOP_PLACE_BOUND" originx="-328.74015748031" originy="295.27559055118" endx="328.74015748031" endy="295.27559055118" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="328.74015748031" originy="295.27559055118" endx="328.74015748031" endy="-295.27559055118" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="328.74015748031" originy="-295.27559055118" endx="-328.74015748031" endy="-295.27559055118" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-328.74015748031" originy="-295.27559055118" endx="-328.74015748031" endy="295.27559055118" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-289.37007874015" originy="0" endx="-289.37007874015" endy="-177.16535433071" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-289.37007874015" originy="-177.16535433071" endx="289.37007874015" endy="-177.16535433071" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="289.37007874015" originy="-177.16535433071" endx="289.37007874015" endy="-59.055118110235" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="289.37007874015" originy="-59.055118110235" endx="255.86614173228" endy="-59.055118110235" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="255.86614173228" originy="-59.055118110235" endx="255.86614173228" endy="197.91338582677" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="255.86614173228" originy="197.91338582677" endx="110.62992125984" endy="197.91338582677" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="110.62992125984" originy="197.91338582677" endx="110.62992125984" endy="177.16535433071" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="110.62992125984" originy="177.16535433071" endx="-289.37007874015" endy="177.16535433071" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-289.37007874015" originy="177.16535433071" endx="-289.37007874015" endy="0" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-147.63779527559" originy="177.16535433071" endx="-289.37007874015" endy="177.16535433071" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-289.37007874015" originy="177.16535433071" endx="-289.37007874015" endy="-177.16535433071" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-289.37007874015" originy="-177.16535433071" endx="-147.63779527559" endy="-177.16535433071" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-37.401574803149" originy="177.16535433071" endx="96.456692913385" endy="177.16535433071" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-37.401574803149" originy="-177.16535433071" endx="96.456692913385" endy="-177.16535433071" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="206.69291338582" originy="-177.16535433071" endx="289.37007874015" endy="-177.16535433071" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="289.37007874015" originy="-177.16535433071" endx="289.37007874015" endy="-59.055118110235" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="289.37007874015" originy="-59.055118110235" endx="255.86614173228" endy="-59.055118110235" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="255.86614173228" originy="-59.055118110235" endx="255.86614173228" endy="197.91338582677" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="255.86614173228" originy="197.91338582677" endx="206.69291338582" endy="197.91338582677" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-92.519685039369" originy="275.5905511811" endx="-92.519685039369" endy="275.5905511811" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="-92.519685039369" originy="273.62204724409" startangle="90.0" sweepangle="180.0" radius="1.9685039370078" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-92.519685039369" originy="271.65354330708" endx="-92.519685039369" endy="271.65354330708" width="3.9370078740157" />
+    <arc layer="TOP_SILKSCREEN" originx="-92.519685039369" originy="273.62204724409" startangle="-90.0" sweepangle="180.0" radius="1.9685039370078" width="3.9370078740157" />
+  </footprint>
+  <symbol name="PJ-114AH-SMT-TR" originx="0" originy="0">
+    <line originx="200" originy="100" endx="700" endy="100" width="0" />
+    <line originx="700" originy="-200" endx="700" endy="100" width="0" />
+    <line originx="700" originy="-200" endx="200" endy="-200" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-200" width="0" />
+    <sympin number="2" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="2" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="3" originx="700" originy="-100" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="670" originy="-100" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="3" />
+      <text name="pindes" originx="760" originy="-80" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="3" />
+    </sympin>
+    <sympin number="3" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="A1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="A1" />
+    </sympin>
+    <sympin number="4" originx="700" originy="0" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="670" originy="0" style="Default" rotation="0" justify="right" flipped="False" hidden="False" data="B1" />
+      <text name="pindes" originx="760" originy="20" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="B1" />
+    </sympin>
+  </symbol>
+  <component name="PJ-114AH-SMT-TR" designatorprefix="J" height="452.75590551181" footprint="PJ114AHSMTTR">
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="2" />
+    <comppin designator="3" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="3" />
+    <comppin designator="A1" sympin="3" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="A1" />
+    <comppin designator="B1" sympin="4" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="B1" />
+    <attached_symbol gate="1" name="PJ-114AH-SMT-TR" />
+    <pinmap designator="2" footprintpin="1" />
+    <pinmap designator="3" footprintpin="2" />
+    <pinmap designator="A1" footprintpin="3" />
+    <pinmap designator="B1" footprintpin="4" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.sameskydevices.com/product/resource/pj-114ah-smt-tr.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="2.0 x 6.4 mm, 5.0 A, Horizontal, Through Hole, Dc Power Jack Connector" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Same Sky" />
+    <text name="Manufacturer_Part_Number" originx="750" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="PJ-114AH-SMT-TR" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="179-PJ-114AH-SMT-TR" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/Same-Sky/PJ-114AH-SMT-TR?qs=3vio67wFuYrzGt00DZL31g%3D%3D" />
+    <text name="Arrow Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+    <text name="Arrow Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+  </component>
+</quadcept_library>

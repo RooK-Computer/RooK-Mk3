@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SJ3-35083B-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-09-17-08:41:13)
+    (mountForm default
+        (footprintRef "SJ335083BTR")
+        (spec "System")
+    )
+)

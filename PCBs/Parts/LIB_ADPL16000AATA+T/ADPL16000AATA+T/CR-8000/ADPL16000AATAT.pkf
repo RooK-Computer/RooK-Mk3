@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ADPL16000AATAT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ADPL16000AATAT")
+        (spec "default")
+    )
+)

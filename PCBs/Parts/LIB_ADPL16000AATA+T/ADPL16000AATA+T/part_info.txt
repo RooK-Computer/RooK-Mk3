@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADPL16000AATA+T
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=8
+Version=2.2
+Released=2024-08-05 13:29:19
+Downloaded=2025-02-06 21:27:51
+3D=Y

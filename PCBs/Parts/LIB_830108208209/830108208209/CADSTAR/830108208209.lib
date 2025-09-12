@@ -1,0 +1,18 @@
+.830108208209 :1 ;24 MHz +/-10ppm Crystal 10pF 100 Ohms 4-SMD, No Lead
+"830108208209"
+*STM Y
+*NGS
+*PLB 1="CRYSTAL_1" 2="GND_1" 3="CRYSTAL_2" 4="GND_2"
+*MXP 4
+*DFN 830108208209
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (830108208209)
+~!Mouser Part Number (710-830108208209)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830108208209?qs=hWgE7mdIu5Qfk68EXTEoAw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.we-online.com/components/products/datasheet/830108208209.pdf)
+~!Height (0.6mm)
+~!3D_Model (830108208209)
+"830108208209"
+1.1!U 2.1!U 3.1!U 4.1!U 

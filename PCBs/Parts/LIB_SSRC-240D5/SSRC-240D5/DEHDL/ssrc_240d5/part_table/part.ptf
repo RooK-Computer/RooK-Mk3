@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SSRC_240D5'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "SSRC-240D5" (!) = "", "SSRC240D5", "Other", "655-SSRC-240D5", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/SSRC-240D5?qs=g%252BEszo6zu8Nwuk3glla68Q%3D%3D", "", "", "Body Features: Product Weight .4 OZ | Primary Product Color Black | Product Weight 11 G | Configuration Features: Output Switching Zero | Contact Features: Contact Arrangement 1 Form A (SPST-NO) | Switch Arrangement 1 Form A (SPST-NO) | Dimensions: Product Height 25.4 MM | Product Width 7.6 MM | Product Height 1 INCH | Product Length 43.1 MM | Product Length 1.7 INCH | Product Width .3 INCH | Electrical Characteristics: Input Voltage 3  15 VDC | Output Current Rating .06  5 ARMS | Output Current (Min)", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=SSRC&DocType=Data%20Sheet&DocLang=English&PartCntxt=5-1393030-8&DocFormat=pdf", "25.4 mm"
+END_PART
+
+END.

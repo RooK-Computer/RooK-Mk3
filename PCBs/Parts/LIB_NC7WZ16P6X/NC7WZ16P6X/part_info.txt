@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=NC7WZ16P6X
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=2.1
+Released=2018-08-30 22:11:45
+Downloaded=2025-01-27 16:32:46
+3D=Y

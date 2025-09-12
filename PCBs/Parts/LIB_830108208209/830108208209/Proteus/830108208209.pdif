@@ -1,0 +1,108 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "830108208209"
+   (description "24 MHz +/-10ppm Crystal 10pF 100 Ohms 4-SMD, No Lead")
+   (family "OSC")
+   (package "830108208209")
+   (attribute "Datasheet Link" "https://www.we-online.com/components/products/datasheet/830108208209.pdf")
+   (attribute "Geometry.Height" "0.6mm")
+   (attribute "Manufacturer_Name" "Wurth Elektronik")
+   (attribute "Manufacturer_Part_Number" "830108208209")
+   (attribute "Mouser Part Number" "710-830108208209")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830108208209?qs=hWgE7mdIu5Qfk68EXTEoAw%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "830108208209")
+    (pin "CRYSTAL_1" 1 PS)
+    (pin "GND_1" 2 PS)
+    (pin "CRYSTAL_2" 3 PS)
+    (pin "GND_2" 4 PS)
+   )
+  )
+  (symbol "830108208209"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1400 100) (pt 1400 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1600 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "830108208209"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.25 1)
+      (pt 1.25 1)
+      (pt 1.25 -1)
+      (pt -1.25 -1)
+      (pt -1.25 1))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.325 2.063)
+      (pt 2.325 2.063)
+      (pt 2.325 -2.063)
+      (pt -2.325 -2.063)
+      (pt -2.325 2.063))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.825 -1.5)
+      (arc (pt -0.825 -1.500) (pt -0.875 -1.600) (pt -0.775 -1.500) (start 180.0) (sweep 90.0))
+      (pt -0.825 -1.6)
+      (arc (pt -0.825 -1.600) (pt -0.875 -1.600) (pt -0.775 -1.500) (start 180.0) (sweep -90.0))
+      (pt -0.825 -1.5))))
+   (leg 1 (pt -0.825 -0.613) (padstack 0))
+   (leg 2 (pt 0.825 -0.613) (padstack 0))
+   (leg 3 (pt 0.825 0.613) (padstack 0))
+   (leg 4 (pt -0.825 0.613) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.900 1.000 0 0 0.000))
+   )
+   (model "830108208209.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

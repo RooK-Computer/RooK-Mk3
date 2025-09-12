@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'USB2514B_M2'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "USB2514B/M2" (!) = "", "QFN50P600X600X100-37N-D", "Quad Flat No-Lead", "579-USB2514B/M2", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/USB2514B-M2?qs=uus7iwvxYD9zlzrAre8ynw%3D%3D", "USB2514B/M2", "https://www.arrow.com/en/products/usb2514bm2/microchip-technology?region=nac", "MICROCHIP - USB2514B/M2 - USB HUB CONTROLLER, USB2.0, SQFN-36", "http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf", "1 mm"
+END_PART
+
+END.

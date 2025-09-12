@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 830108208209
+D 24 MHz +/-10ppm Crystal 10pF 100 Ohms 4-SMD, No Lead
+K
+F https://www.we-online.com/components/products/datasheet/830108208209.pdf
+$ENDCMP
+#
+#End Doc Library

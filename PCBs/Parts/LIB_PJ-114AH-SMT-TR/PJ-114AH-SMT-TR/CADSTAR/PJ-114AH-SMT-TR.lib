@@ -1,0 +1,19 @@
+.PJ-114AH-SMT-TR :1 ;2.0 x 6.4 mm, 5.0 A, Horizontal, Through Hole, Dc Power Jack Connector
+PJ114AHSMTTR
+*STM J
+*NGS
+*PNM 1=2 2=3 3=A1 4=B1
+*PLB 1="2" 2="3" 3="A1" 4="B1"
+*MXP 6
+*DFN PJ-114AH-SMT-TR
+~!Manufacturer_Name (Same Sky)
+~!Manufacturer_Part_Number (PJ-114AH-SMT-TR)
+~!Mouser Part Number (179-PJ-114AH-SMT-TR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Same-Sky/PJ-114AH-SMT-TR?qs=3vio67wFuYrzGt00DZL31g%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.sameskydevices.com/product/resource/pj-114ah-smt-tr.pdf)
+~!Height (11.5mm)
+~!3D_Model (PJ-114AH-SMT-TR)
+PJ-114AH-SMT-TR
+1.1!U 2.1!U 3.1!U 4.1!U 

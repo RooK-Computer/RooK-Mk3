@@ -1,0 +1,17 @@
+Id;Designator;Footprint;Quantity;Designation;Supplier and ref;;
+1;R3;R_0201_0603Metric;1;12k +/-1%;;;
+2;R4,R5;R_0201_0603Metric;2;1k;;;
+4;C4,C3;C_0201_0603Metric;2;1.0 uF +/- 20%;;;
+5;C6;C_1206_3216Metric;1;22 uF;;;
+6;R8,R11,R6,R9,R10,R7;R_0201_0603Metric;6;33;;;
+7;IC1;QFN50P600X600X90-37N-D;1;USB2244I-AEZG-06-TR;https://cn.mouser.com/ProductDetail/Microchip-Technology/USB2244I-AEZG-06-TR?qs=sGAEpiMZZMtOXy69nW9rMy9UJ6g5uDL7kK97WuCcI7BxsYLpon3iQQ%3D%3D;;
+8;L1;74404054470;1;47 muH;https://cn.mouser.com/ProductDetail/Wurth-Elektronik/74404054470?qs=Zt3UNFD9mQjCehaSX3JlDg%3D%3D;;
+9;R1,R2;R_0201_0603Metric;2;5k1;;;
+10;C5;C_0201_0603Metric;1;1 uF;;;
+11;J1;18710581;1;1871058-1;https://cn.mouser.com/ProductDetail/TE-Connectivity/1871058-1?qs=%252BoxYCnKeKt%252BrW4wNNMzC1A%3D%3D;;
+12;Y1;830108208209;1;830108208209;https://cn.mouser.com/ProductDetail/Wurth-Elektronik/830108208209?qs=hWgE7mdIu5Qfk68EXTEoAw%3D%3D;;
+13;C2,C1;C_0201_0603Metric;2;14pF;;;
+15;J2;USB_C_Receptacle_Molex_105450-0101;1;USB_C_Receptacle;;;
+16;C8;C_1206_3216Metric;1;4.7 uF;;;
+18;IC2;ADPL16000AATAT;1;ADPL16000AATA+T;https://cn.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/ADPL16000AATA%2bT?qs=sGAEpiMZZMt1hubY80%2Fs8Ixe%2F5%2FzzIY%2F77WKHGUQrS6iM0rHcrxwcw%3D%3D;;
+20;C7;C_1206_3216Metric;1;1uF;;;
